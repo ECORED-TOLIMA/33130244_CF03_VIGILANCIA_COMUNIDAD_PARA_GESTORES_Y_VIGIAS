@@ -50,7 +50,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-06.svg', alt='Imagen decorativa')
       .col-9
-        p.mb-0(data-aos="fade-left") La promoción de un instrumento de captura garantiza que exista la adaptabilidad a diversos contextos debido a la multiplicidad de los canales de comunicación como los móvil, #[em web, offline] y canales alternativos entre los que pueden ser #[em chatbot, WhatsApp], formularios #[em web], se garantiza que incluso comunidades rurales o aisladas puedan reportar sin barreras de conectividad.
+        p.mb-0(data-aos="fade-left") La promoción de un instrumento de captura garantiza que exista la adaptabilidad a diversos contextos debido a la multiplicidad de los canales de comunicación como los móvil, #[em web, offline] y canales alternativos entre los que pueden ser #[em chatbot], WhatsApp, formularios #[em web], se garantiza que incluso comunidades rurales o aisladas puedan reportar sin barreras de conectividad.
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-12
