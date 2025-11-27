@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Canales de comunicación',
       significado:
-        'medios para enviar información del reporte: aplicación móvil, web, mensajes de texto, WhatsApp, llamadas, radio - comunicación, emisoras comunitarias y voz a voz.',
+        'medios para enviar información del reporte: aplicación móvil, <em>web</em>, mensajes de texto, WhatsApp, llamadas, radio - comunicación, emisoras comunitarias y voz a voz.',
     },
     {
       termino: 'Centralización/articulación de datos',

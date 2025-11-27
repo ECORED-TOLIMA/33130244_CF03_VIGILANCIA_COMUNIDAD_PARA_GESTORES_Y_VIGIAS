@@ -23,8 +23,6 @@
         .cajon.cajon.color-primario.p-4
           p.mb-0 Por lo anterior, se requiere velar por la oportunidad y velocidad en la respuesta; al contar con un sistema automatizado, se reducirían los retrasos en la captura, validación y análisis de las señales, permitiendo intervenciones rápidas antes de que los eventos se conviertan en brotes de difícil control.
 
-    p.mb-4 La Vigilancia Basada en Comunidad (VBC) identifica señales que deben ser valoradas y verificadas por un actor de la vigilancia basada en indicadores, según los protocolos de vigilancia en salud publica vigentes y como parte de un sistema de alerta temprana del modelo de gestión de riesgo en salud pública (identificación, análisis, valoración y modificación), de manera que se pueda monitorear la trazabilidad de la gestión realizada con cada señal identificada hasta su cierre (Instituto Nacional de Salud, 2025).
-
     .row.justify-content-center.mb-4
       .col-lg-9.order-lg-1.order-2.mb-lg-0.mb-4
         .bg-color-1.mb-3(data-aos="fade-up")
@@ -52,7 +50,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-06.svg', alt='Imagen decorativa')
       .col-9
-        p.mb-0(data-aos="fade-left") La promoción de un instrumento de captura garantiza que exista la adaptabilidad a diversos contextos debido a la multiplicidad de los canales de comunicación como los móvil, web, offline y canales alternativos entre los que pueden ser chatbot, WhatsApp, formularios web, se garantiza que incluso comunidades rurales o aisladas puedan reportar sin barreras de conectividad.
+        p.mb-0(data-aos="fade-left") La promoción de un instrumento de captura garantiza que exista la adaptabilidad a diversos contextos debido a la multiplicidad de los canales de comunicación como los móvil, #[em web, offline] y canales alternativos entre los que pueden ser #[em chatbot, WhatsApp], formularios #[em web], se garantiza que incluso comunidades rurales o aisladas puedan reportar sin barreras de conectividad.
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-12
@@ -187,7 +185,7 @@
                 td(style="background-color: #F6F6F6;") Caso, brotes, muertes, factores potencialmente.
                 td(style="background-color: #F6F6F6;") Ausencia de casos / eventos.
               tr(data-aos="fade-right")
-                td #[b Utilida]
+                td #[b Utilidad]
                 td Activación de respuesta y control.
                 td Validación de ausencia, mantenimiento de vigilancia.
               tr(data-aos="fade-right")
@@ -272,7 +270,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.4. Tipos de información
 
-    p.mb-4 Según el Instituto Nacional de Salud (203), los tipos de información que aborda la vigilancia basada en comunidad corresponde a las situaciones de interés en salud pública, las cuales son: 
+    p.mb-4 Según el Instituto Nacional de Salud (2023), los tipos de información que aborda la vigilancia basada en comunidad corresponde a las situaciones de interés en salud pública, las cuales son: 
 
     .row.justify-content-center
       .col-lg-10.col-12
@@ -353,7 +351,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.5. Flujo y canales para la recepción de la información 
 
-    p.mb-4 El flujo de información inicia con la identificación de la señal por parte de los vigías y gestores comunitarios, quienes realizan el reporte de la situación de interés en salud pública en los formatos establecidos para la situación individual y colectiva, posteriormente, el reporte se realiza a la entidad que lidera el proceso en el territorio. Esta señal debe ingresar luego sistema de alerta temprana territorial, para ser verificada. 
+    p.mb-4 El flujo de información inicia con la identificación de la señal por parte de los vigías y gestores comunitarios, quienes realizan el reporte de la situación de interés en salud pública en los formatos establecidos para la situación individual y colectiva, posteriormente, el reporte se realiza a la entidad que lidera el proceso en el territorio. Esta señal debe ingresar luego al sistema de alerta temprana territorial, para ser verificada. 
 
     .row.justify-content-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
@@ -413,7 +411,7 @@
           .col
             h3.mb-0 Instrumentos de reporte
 
-    p Para realizar el reporte de las situaciones de interés, actualmente se dispone de dos formatos de reporte a manera de ejemplo; una de ellas corresponde a las situaciones de reporte individual y otra a la de reporte colectivo; estas fichas pueden ser implementadas por las entidades territoriales o pueden ser diseñado por la entidad territorial, según la posibilidad; aunque, guardando los parámetros que se dan para la obtención de datos requeridos. 
+    p Para realizar el reporte de las situaciones de interés, actualmente se dispone de dos formatos de reporte a manera de ejemplo; una de ellas corresponde a las situaciones de reporte individual y otra a la de reporte colectivo; estas fichas pueden ser implementadas por las entidades territoriales o pueden ser diseñadas por la entidad territorial, según la posibilidad; aunque, guardando los parámetros que se dan para la obtención de datos requeridos. 
     p.mb-4 A continuación, puede descargar cada uno de estos formatos y así poder analizarlos:
 
     .bg-c1.px-md-5.px-4.mb-0
@@ -451,7 +449,7 @@
             img(src='@/assets/curso/temas/tema1/img-32.png', alt='Imagen decorativa')
         .col-lg-7.mb-lg-0(data-aos="fade-left")
           p El reporte comunitario debe contar con los siguientes elementos: el lugar donde ocurre la situación de interés en salud pública (departamento, municipio, vereda, corregimiento, barrio, casa, otro); número de personas afectadas con sus características (ciclo vital, edad, sexo, grupo étnico, otros) y la temporalidad de la situación de interés en salud pública (horas o días desde la ocurrencia de la situación) y la descripción del hecho ocurrido (Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja, 2019).
-          p Asimismo, cuando el reporte corresponde a una persona este debe hacerse el en el formato de ficha de situación en salud pública individual. Estos instrumentos pueden ser dispuestos en diversas herramientas de captura dentro de las cuales están los formularios de Google Form, Microsoft, entre otros; aplicativos como el RedCap o Epicollect (Instituto Nacional de Salud, 2023).
+          p Asimismo, cuando el reporte corresponde a una persona este debe hacerse en el formato de ficha de situación en salud pública individual. Estos instrumentos pueden ser dispuestos en diversas herramientas de captura dentro de las cuales están los formularios de Google Form, Microsoft, entre otros; aplicativos como el RedCap o Epicollect (Instituto Nacional de Salud, 2023).
 
       .row.mb-4.ms-0
         .col-auto.bg-titulo1(data-aos="fade-left")
@@ -462,7 +460,7 @@
             .col
               h3.mb-0 Canales de comunicación
 
-      p.mb-4 Los canales de reporte a emplear dependen de lo establecido en la REVCOM y la institucionalidad, con base en las facilidades de conexión en el territorio entre las redes y las instituciones. Estos pueden ser diversos según los medios tecnológicos (aplicaciones móviles, plataformas web, bots), mensajería celular, llamadas telefónicas, radio - comunicación, emisoras comunitarias y voz a voz. 
+      p.mb-4 Los canales de reporte a emplear dependen de lo establecido en la REVCOM y la institucionalidad, con base en las facilidades de conexión en el territorio entre las redes y las instituciones. Estos pueden ser diversos según los medios tecnológicos (aplicaciones móviles, plataformas #[em web, bots]), mensajería celular, llamadas telefónicas, radio - comunicación, emisoras comunitarias y voz a voz. 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -504,7 +502,7 @@
       .col-xl.px-0
         .d-flex.align-items-start
           img.icon-inline.d-none.d-lg-block.me-3(src='@/assets/curso/temas/tema1/img-37.svg' alt="Imagen decorativa")
-        p.mb-0 El aplicativo de captura para Vigilancia Basada en Comunidad (VBC) es una herramienta digital diseñada para facilitar el registro, gestión y análisis de eventos de salud detectados y reportados por la comunidad, promoviendo una vigilancia oportuna y participativa. Desarrollada bajo una plataforma web que permite a ciudadanos, líderes comunitarios y profesionales de la salud registrar situaciones que representen un riesgo colectivo, tales como brotes, eventos ambientales, condiciones sanitarias deficientes, entre otros. Su finalidad es fortalecer la respuesta de las autoridades sanitarias descentralizando y dinamizando la vigilancia con la participación directa de la comunidad (Rueda Cortés, 2019).
+        p.mb-0 El aplicativo de captura para Vigilancia Basada en Comunidad (VBC) es una herramienta digital diseñada para facilitar el registro, gestión y análisis de eventos de salud detectados y reportados por la comunidad, promoviendo una vigilancia oportuna y participativa. Desarrollada bajo una plataforma #[em web] que permite a ciudadanos, líderes comunitarios y profesionales de la salud registrar situaciones que representen un riesgo colectivo, tales como brotes, eventos ambientales, condiciones sanitarias deficientes, entre otros. Su finalidad es fortalecer la respuesta de las autoridades sanitarias descentralizando y dinamizando la vigilancia con la participación directa de la comunidad (Rueda Cortés, 2019).
 
     .tarjeta.tarjeta--gris2.p-3.mb-4
       .row.justify-content-around
