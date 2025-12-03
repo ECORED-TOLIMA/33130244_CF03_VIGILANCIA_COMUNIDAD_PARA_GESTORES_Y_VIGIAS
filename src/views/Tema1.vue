@@ -395,7 +395,7 @@
           span <em>Flujo y elementos del reporte de vigilancia basada en comunidad</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-1-1vv.svg', alt='La figura 1 relaciona el flujo y los elementos del reporte de vigilancia basada en comunidad. Inicia con la comunidad, donde se identifican aspectos como el lugar donde ocurre el evento, el número de personas afectadas, sus características y el tiempo de ocurrencia. También se incluye una breve descripción del evento o situación de interés en salud pública. Estos datos conforman los elementos del reporte comunitario, que son recogidos por vigías y gestores comunitarios.')
               figcaption Fuente: Instituto Nacional de Salud (2023)
@@ -426,7 +426,7 @@
                   .col.mb-3.mb-sm-0
                     h3.mb-1(style="color:#12263F") Formato individual
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexos_Ficha_de_reporte_individual.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Ficha_de_reporte_individual.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
         .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
@@ -439,7 +439,7 @@
                   .col.mb-3.mb-sm-0
                     h3.mb-1(style="color:#12263F") Formato colectivo
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexos_Ficha_de_reporte_colectivo.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Ficha_de_reporte_colectivo.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 
