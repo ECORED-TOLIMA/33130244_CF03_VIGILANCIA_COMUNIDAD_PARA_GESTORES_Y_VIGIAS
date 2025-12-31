@@ -579,6 +579,14 @@
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Instalcion_aplicativo_VBC.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
+    
+    p.mb-4 Para reforzar los conceptos relacionados con el reporte de situaciones de interés en salud pública, se sugiere acceda al siguiente video. En él se explica la importancia del reporte como principal mecanismo de comunicación entre la comunidad y las autoridades sanitarias. Además, se destacan las características del reporte, sus tipos, el flujo de la información, los formatos a utilizar y, finalmente, el procedimiento para realizar el reporte en el aplicativo de la Red de Vigilancia Epidemiológica Comunitaria:  
+
+    .row.justify-content-center.align-items-center           
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/KycO5lEIssA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 </template>
