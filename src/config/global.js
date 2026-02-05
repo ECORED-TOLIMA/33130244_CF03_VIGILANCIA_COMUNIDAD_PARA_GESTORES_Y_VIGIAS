@@ -122,7 +122,7 @@ export default {
   complementario: [
     {
       tema:
-        '1. Importancia del reporte en la Estrategia de Vigilancia Basada en Comunidad (VBC)',
+        '1. Importancia del reporte en la Estrategia de Vigilancia Basada en comunidad (VBC)',
       referencia:
         'Organización Mundial de las Salud / Organización Panamericana de la Salud. (2017). <em>Módulos de principios de epidemiología para el control de enfermedades (MOPECE).</em>',
       tipo: 'Documento',
