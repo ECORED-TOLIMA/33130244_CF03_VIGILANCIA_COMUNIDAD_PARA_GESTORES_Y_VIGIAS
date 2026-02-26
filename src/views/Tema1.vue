@@ -72,19 +72,20 @@
               img(src='@/assets/curso/temas/tema1/img-07.png', alt='Imagen decorativa')
           .col-lg-7.mb-lg-0(data-aos="fade-left")
             p(style="color:#000") El reporte dentro de la vigilancia basada en comunidad es una herramienta clave para detectar eventos o situaciones de interés en salud pública, permitiendo una respuesta oportuna por parte de las autoridades y la comunidad. Este proceso está definido por varios componentes esenciales: su definición, sus características (tiempo, lugar y persona) y la diversidad de tipos, incluyendo los reportes negativos y otros específicos. Asimismo, se refiere a la comunicación sistemática de eventos, situaciones o señales de interés en salud pública identificadas por miembros de la misma comunidad, denominados agentes comunitarios. Es el mecanismo por el cual se trasladan observaciones o sospechas desde el entorno comunitario hacia el sistema de salud para su análisis y eventual acción de control y prevención (Instituto Nacional de Salud, 2023).
-            .row
-              .col-auto.d-none.d-lg-block.order-lg-1.order-2.mb-lg-0
-                figure
-                  img(src='@/assets/curso/temas/tema1/img-08.svg' alt="Imagen decorativa")
-              .col-lg-10.col-12.mb-3.order-lg-2.order-2.mb-lg-0
-                p(style="color:#000") Una situación de interés en salud pública es un conjunto de posibles eventos o factores relacionados con un evento de interés en salud pública, del cual se requiere definir algunas características que corresponden a: 
+            
+        .row.justify-content-center.mb-4
+          .col-1.d-none.d-lg-block
+            figure
+              img(src='@/assets/curso/temas/tema1/img-08.svg', alt='Imagen decorativa')
+          .col-11
+            p.mb-0(data-aos="fade-left") Una situación de interés en salud pública es un conjunto de posibles eventos o factores relacionados con un evento de interés en salud pública, del cual se requiere definir algunas características que corresponden a: 
 
         .row.justify-content-center.mb-4
           .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema1/img-09.svg' alt="Imagen decorativa")
               .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#FFDD8B;")
-                h4.text-center.mt-5(style="color:#12263F") Quienes está afectando
+                h4.text-center.mt-5(style="color:#12263F") A Quiénes está afectando
                 p.text-center.mb-0(style="color:#12263F") Personas, animales, entre otros. 
           .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
             .tarjeta-avatar
@@ -144,7 +145,7 @@
             .col-lg-10.col-12
               p.mb-0(data-aos="fade-down") La vigilancia basada en comunidad contempla distintos tipos de reportes adaptables al momento, contexto y modalidad de implementación, los cuales se pueden realizar mediante formatos estructurados o resúmenes comunitarios de situación conocidos como cápsulas. Los tipos de reportes abordan dos: positivos y negativos, que en epidemiología comunitaria tienen propósitos y significados distintos y se diferencian principalmente por la presencia o ausencia de eventos de interés en salud pública detectados en la comunidad.
 
-    p.mb-4.text-center A continuación, se explican estos dos reportes: 
+    p.mb-4 A continuación, se explican estos dos reportes: 
 
     TabsC.color-acento-botones.mb-4(data-aos="flip-up")
       .py-3.py-md-4(titulo="Reporte positivo")
@@ -164,7 +165,7 @@
             p Se refiere al reporte en el cual no se detectan casos ni eventos de interés en salud pública, pero sirve como evidencia de la ausencia de situaciones preocupantes en determinadas áreas o períodos. Es fundamental para validar la efectividad de las intervenciones y mantener la trazabilidad del sistema.
             p.mb-0 El reporte negativo no debe verse como una ausencia de acción, sino como una parte vital del sistema, ya que permite documentar los territorios donde no se presentan eventos y mantiene activa la vigilancia, lo que ayuda a evaluar la cobertura, efectividad y evolución de la vigilancia en salud pública. Asimismo, la diversidad de reportes asegura que distintos eventos, factores y grupos poblacionales sean considerados en la alerta temprana y la respuesta sanitaria, siendo esto útil para la planificación de la respuesta requerida (Instituto Nacional de Salud, 2023).
     
-    p.mb-4.text-center Basado en la anterior información y para ejemplificar cada reporte, se plantea la siguiente tabla:
+    p.mb-4 Basado en la anterior información y para ejemplificar cada reporte, se plantea la siguiente tabla:
 
     .row.justify-content-center
       .col-lg-10
@@ -282,16 +283,16 @@
               .tarjeta.tarjeta--blanca.p-4
                 ul.lista-ul.mb-0
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Contaminación del agua para consumo humano o de cuerpos de agua.
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Vertederos de basura.
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Aumento de roedores o insectos vectores.
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Desastres naturales
             .col-12.mb-0
               figure
@@ -309,19 +310,19 @@
               .tarjeta.tarjeta--blanca.p-4.mb-4
                 ul.lista-ul.mb-0
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Síndrome febril exantemático (como brotes en la piel).
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Síndrome febril ictérico (coloración amarillenta de la piel y mucosas).
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Síndrome respiratorio.
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Síndrome neurológico.
                   li.mb-0
-                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 2rem")
+                    i.lista-ul__vineta(style="color: #30DF8E; font-size: 1.5rem")
                     | Síndrome diarreico.
               p Estos síndromes facilitan la detección temprana de enfermedades como sarampión, fiebre amarilla u otras afecciones emergentes o reemergentes, según el contexto.
             .col-12.mb-0
@@ -372,11 +373,12 @@
               .p-3
                 h4.titulo-1 Ejemplo
                 p.mb-0 Contaminación de un río, la competencia es de la Corporación Autónoma Regional, en el caso que se presenten personas enfermas, la respuesta será del sector salud. Cuando la magnitud de la situación supere el despliegue de la respuesta municipal o departamental se acudirá al apoyo nacional.
-        p Las señales recibidas desde la comunidad deben contar con una respuesta institucional o una orientación para la autogestión, a su vez, se debe garantizar la comunicación de las acciones realizadas por la entidad a los vigías y gestores comunitarios, para fortalecer la comunicación entre la comunidad y la entidad generando la confianza a la REVCOM y su comunidad frente a la gestión por parte de las entidades.
       .col-lg-3.col-md-6.col-8.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-41.png', alt='Imagen decorativa')
 
+    p Las señales recibidas desde la comunidad deben contar con una respuesta institucional o una orientación para la autogestión, a su vez, se debe garantizar la comunicación de las acciones realizadas por la entidad a los vigías y gestores comunitarios, para fortalecer la comunicación entre la comunidad y la entidad generando la confianza a la REVCOM y su comunidad frente a la gestión por parte de las entidades.
+    
     .row.no-gutters.align-items-center.mb-4.style___box_1.m-0(data-aos="zoom-in")
       .col-xl-auto.px-0
         figure.d-none.d-xl-block
@@ -386,7 +388,7 @@
           img.icon-inline.d-none.d-lg-block.me-3(src='@/assets/curso/temas/tema1/img-31.svg' alt="Imagen decorativa")
         p.mb-0 En el caso que el reporte sea negativo (ausencia de la situación de interés en salud pública), la entidad territorial es la encargada de orientar a los vigías y gestores del porqué la señal presentada fue negativa; asimismo, es una forma de hacer monitoreo de estos casos para contar con la cobertura y funcionamiento de las redes. Para esto, se recomienda que exista una comunicación semanal con los agentes comunitarios que son parte de la REVCOM, con el objeto de validar la existencia o no de situaciones de interés en salud pública que ocurran en las comunidades (Instituto Nacional de Salud, 2023).
 
-    p.mb-4.text-center De acuerdo a lo anterior, a continuación, se relaciona la estructura de este flujo:
+    p.mb-4 De acuerdo a lo anterior, a continuación, se relaciona la estructura de este flujo:
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10.col-12
@@ -439,7 +441,7 @@
                   .col.mb-3.mb-sm-0
                     h3.mb-1(style="color:#12263F") Formato colectivo
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Ficha_de_reporte_colectivo.xlsx')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Ficha_de_reporte_situaciones_en_salud_pública_colectivas.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 
@@ -537,7 +539,7 @@
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-45.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 70+ en adelante, la versión más actualizada es la 134. Permite instalación es escritorio y en versiones móviles.
+              p.mb-0 De la versión 70+ en adelante, la versión más actualizada es la 145. Permite instalación es escritorio y en versiones móviles.
           .row(numero="2" titulo="Edge")
             .col-xl-auto
               figure.d-none.d-xl-block
@@ -576,7 +578,7 @@
               h3.mb-1(style="color:#12263F") Instalación VBC
               p Ingrese al siguiente documento y conozca el proceso que tiene que ver con la instalación del aplicativo de la Vigilancia Basada en Comunidad, tanto para computador como dispositivos móviles.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Instalcion_aplicativo_VBC.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Instalacion_aplicativo_VBC.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     

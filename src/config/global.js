@@ -274,8 +274,7 @@ export default {
     {
       referencia:
         'Tufiño Aguilar, A. A., Angamarca-Iguago, J., Hualpa, A. N., Arcos-Villacís, N., Simancas-Racines, D. & Escobar-Naranjo, M. (2023). Impacto de la vigilancia basada en eventos a nivel comunitario en países de bajos y medianos ingresos: un resumen estructurado de evidencia con metodología FRISBEE. <em>PRF Práctica Familiar Rural, 8</em>(3).',
-      link:
-        'https://practicafamiliarrural.org/pfr/article/download/291/415?inline=1',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=9223796',
     },
   ],
   creditos: [
