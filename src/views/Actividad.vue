@@ -98,7 +98,7 @@ export default {
           id: 6,
           texto:
             'La respuesta institucional solo es necesaria ante la confirmación de brotes o muertes; para otras situaciones, no es necesaria.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: false },
@@ -113,7 +113,7 @@ export default {
           id: 7,
           texto:
             '¿Qué caracteriza a un reporte negativo en el contexto de la Vigilancia Basada en Comunidad?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -146,7 +146,7 @@ export default {
           id: 8,
           texto:
             '¿Cuál de los siguientes es un ejemplo de situación ambiental a reportar según la VBC?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Accidente vehicular.', esCorrecta: false },
@@ -171,7 +171,7 @@ export default {
           id: 9,
           texto:
             '¿Qué instrumento puede usarse para reportar situaciones de interés en salud pública desde la comunidad?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Carteles informativos.', esCorrecta: false },
@@ -193,7 +193,7 @@ export default {
           id: 10,
           texto:
             '¿Quiénes son considerados agentes comunitarios en la Vigilancia Basada en Comunidad?',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -367,7 +367,7 @@ export default {
           id: 16,
           texto:
             '¿Cuál de los siguientes no es una situación de interés en salud pública?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Contaminación del agua.', esCorrecta: false },
@@ -396,7 +396,7 @@ export default {
           id: 17,
           texto:
             'Las muertes comunitarias pueden considerarse situaciones de interés en salud pública cuando:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -430,7 +430,7 @@ export default {
           id: 18,
           texto:
             'El registro oportuno de situaciones de interés en salud pública permite:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -464,7 +464,7 @@ export default {
           id: 19,
           texto:
             'Un ejemplo de conglomerado reportable en salud pública sería:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -494,7 +494,7 @@ export default {
           id: 20,
           texto:
             '¿Por qué es necesaria la actualización periódica del listado de situaciones de interés de salud pública?',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {

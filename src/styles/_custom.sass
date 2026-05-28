@@ -9,7 +9,7 @@
     animation: float1 4.2s ease-in-out infinite alternate
     position: absolute
     top: 15%
-    right: 1%
+    right: 15%
     animation-delay: 1s;
 
 @keyframes float1
@@ -306,16 +306,60 @@
 
 //- tarjetas cambio de color HOVER
 .bg-c1 
-  background-size: cover
-  background-repeat: no-repeat
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(208,250,231,.40) 25%, rgba(208,250,231,.40) 75%, rgba(255,255,255,1) 100%)
   background-position: center
   margin-inline: -3rem !important
+
+  @media (min-width: 768px) and (max-width: 991.98px)
+    position: relative
+    z-index: 1
+    margin-inline: 0 !important
+    background: none
+
+    &::before
+      content: ''
+      position: absolute
+      top: 0
+      bottom: 0
+      left: 50%
+      width: 100vw
+      transform: translateX(-50%)
+      background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(208,250,231,.40) 25%, rgba(208,250,231,.40) 75%, rgba(255,255,255,1) 100%)
+      z-index: -1
+
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
 
-.bg
-  &-c1
-    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(226, 255, 242, 1) 20%, rgba(208, 250, 231, 1) 80%, rgba(255, 255, 255, 1) 100%)
-
 .linea-tiempo-d.color-acento-botones.especial .linea-tiempo-d__item--selected .tarjeta.tarjeta--gris > span
   color: #000 !important
+
+.text-center img.d-inline-block
+  width: 200px !important
+
+.header__logo
+  width: 130px !important
+  height: auto
+
+@media (max-width: 768px)
+  .header__logo
+    width: 130px !important
+
+.aside-menu
+  top: 65px !important
+
+.aside-menu__black-background
+  top: 65px !important
+
+.cajon.cajon.color-secundario-medio
+  background-color: #FEEADD
+  &::before
+    background-color: #FA9757
+
+.cajon.cajon.color-secundario-medio2
+  background-color: #FDD5BA
+  &::before
+    background-color: #FA9757
+
+.bloque-texto-c.color-primario
+  border-radius: 30px
+  background-color: #FFDD8B !important

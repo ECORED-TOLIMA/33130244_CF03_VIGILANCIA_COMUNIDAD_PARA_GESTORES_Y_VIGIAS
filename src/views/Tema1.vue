@@ -15,26 +15,26 @@
     p.mb-4 La Vigilancia Basada en Comunidad (VBC) identifica señales que deben ser valoradas y verificadas por un actor de la vigilancia basada en indicadores, según los protocolos de vigilancia en salud publica vigentes y como parte de un sistema de alerta temprana del modelo de gestión de riesgo en salud pública (identificación, análisis, valoración y modificación), de manera que se pueda monitorear la trazabilidad de la gestión realizada con cada señal identificada hasta su cierre (Instituto Nacional de Salud, 2025).
 
     .row.justify-content-center.mb-4
-      .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img-02.png', alt='Imagen decorativa')
       .col-lg-7.mb-lg-0(data-aos="fade-left")
         p La necesidad de un sistema de recolección de situaciones de interés en salud pública surge porque la VBC depende de información oportuna, confiable y sistematizada para que los agentes comunitarios, en articulación con las entidades territoriales de salud, puedan identificar y reportar señales tempranas que influyen directamente en la prevención y control de eventos de interés en salud pública. Hoy en día, la gestión es manual, lenta y propensa a errores, lo que limita su capacidad de respuesta rápida y efectiva (Instituto Nacional de Salud, 2024).
-        .cajon.cajon.color-primario.p-4
+        .cajon.cajon.color-secundario-medio.p-4
           p.mb-0 Por lo anterior, se requiere velar por la oportunidad y velocidad en la respuesta; al contar con un sistema automatizado, se reducirían los retrasos en la captura, validación y análisis de las señales, permitiendo intervenciones rápidas antes de que los eventos se conviertan en brotes de difícil control.
 
     .row.justify-content-center.mb-4
       .col-lg-9.order-lg-1.order-2.mb-lg-0.mb-4
         .bg-color-1.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/temas/tema1/img-03.svg', alt='')
             .col-lg
               .p-3
                 p Un sistema de recolección disminuye la probabilidad de errores en el procesamiento, debido a que la recolección manual de datos es susceptible a inconsistencias. El sistema garantizaría estandarización de la información y trazabilidad desde la fuente comunitaria (vigías y gestores) hasta los sistemas nacionales(Instituto Nacional de Salud, 2006).
         p De igual manera, la centralización y articulación de datos, permite integrar los reportes de la VBC al SIVIGILA y al SAT, se asegura una única fuente de información consolidada, mejorando la coordinación entre niveles municipal, departamental y nacional para la coordinación de acciones con la comunidad. También, se fortalece la participación comunitaria porque los agentes comunitarios tendrán una herramienta accesible, sencilla y confiable para notificar, recibir retroalimentación y mejorar su rol en la vigilancia. Esto, favorece la motivación y la eficacia de la estrategia.
-      .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+      .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src="@/assets/curso/temas/tema1/img-04.png", data-aos="zoom-in")
 
@@ -54,7 +54,7 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-12
-        .cajon.cajon.color-secundario-medio.p-4
+        .cajon.cajon.color-secundario-medio2.p-4
           p.mb-0 Finalmente, la creación de herramientas que permitan mejorar la captura de datos para el sistema de vigilancia está respaldado en el marco del Decreto 3518 de 2006 y el Decreto 780 de 2016, que reglamentan el Sistema de Vigilancia en Salud Pública, fortaleciendo las obligaciones de los niveles territoriales con el INS y mejorando su articulación.
 
     p La implementación de una herramienta de captura en la vigilancia basada en comunidad beneficia la detección temprana de los casos, síndromes, brotes y otras situaciones con mayor precisión y veracidad mejorando la acción intersectorial. Además, cuando existe un conocimiento temprano de las situaciones cabe la posibilidad que se reduzca el riego de morbilidad y mortalidad. La existencia de una comunicación bidireccional fomenta la confianza y efectividad del proceso de la VBC e incluso fomenta la preparación a la respuesta en el caso de emergencias sanitarias y amenazas de enfermedades reemergentes (Instituto Nacional de Salud, 2024).
@@ -67,18 +67,13 @@
     .bg-full-width.bg-color-2
       .px-4.px-md-5
         .row.justify-content-center.mb-4
-          .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+          .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-right")
             figure
               img(src='@/assets/curso/temas/tema1/img-07.png', alt='Imagen decorativa')
           .col-lg-7.mb-lg-0(data-aos="fade-left")
             p(style="color:#000") El reporte dentro de la vigilancia basada en comunidad es una herramienta clave para detectar eventos o situaciones de interés en salud pública, permitiendo una respuesta oportuna por parte de las autoridades y la comunidad. Este proceso está definido por varios componentes esenciales: su definición, sus características (tiempo, lugar y persona) y la diversidad de tipos, incluyendo los reportes negativos y otros específicos. Asimismo, se refiere a la comunicación sistemática de eventos, situaciones o señales de interés en salud pública identificadas por miembros de la misma comunidad, denominados agentes comunitarios. Es el mecanismo por el cual se trasladan observaciones o sospechas desde el entorno comunitario hacia el sistema de salud para su análisis y eventual acción de control y prevención (Instituto Nacional de Salud, 2023).
             
-        .row.justify-content-center.mb-4
-          .col-1.d-none.d-lg-block
-            figure
-              img(src='@/assets/curso/temas/tema1/img-08.svg', alt='Imagen decorativa')
-          .col-11
-            p.mb-0(data-aos="fade-left") Una situación de interés en salud pública es un conjunto de posibles eventos o factores relacionados con un evento de interés en salud pública, del cual se requiere definir algunas características que corresponden a: 
+        p.mb-4(data-aos="fade-left") Una situación de interés en salud pública es un conjunto de posibles eventos o factores relacionados con un evento de interés en salud pública, del cual se requiere definir algunas características que corresponden a: 
 
         .row.justify-content-center.mb-4
           .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -116,7 +111,7 @@
             .col-lg-12.order-lg-1.order-2
               p.mb-0 Describe quién está afectado. Puede involucrar características sociodemográficas como edad, sexo, ocupación, grupo étnico o condición vulnerable, permitiendo identificar poblaciones en riesgo y personalizar la respuesta sanitaria.
 
-      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img-12.png' alt="Imagen decorativa")
 
     .row.justify-content-center
@@ -139,7 +134,7 @@
       .col-lg-10.col-12
         .cajon.cajon.C01.px-4.py-4
           .row.justify-content-center
-            .col-lg-2.col-4.mb-lg-0.mb-4
+            .col-lg-2.col-4.mb-lg-0.mb-4.d-none.d-lg-block
               figure(data-aos="fade-down")
                 img(src='@/assets/curso/temas/tema1/img-14.svg', alt='Imagen decorativa')
             .col-lg-10.col-12
@@ -356,24 +351,24 @@
 
     .row.justify-content-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-        .cajon.cajon.color-secundario-medio.p-4.mb-4
+        .cajon.cajon.color-secundario-medio2.p-4.mb-4
           p.mb-0 La verificación de la señal consiste en revisar y comprobar la información reportada por los vigías y gestores comunitarios, actividad a cargo de la entidad territorial; para esto, la entidad debe contar con herramientas que permitan confirmar la información reportada. 
         p(style="color:#000") Confirmada la señal, la entidad territorial activa la respuesta requerida con base en las entidades gubernamentales y no gubernamentales presenten en el territorio y que den respuesta a la señal reportada. Cuando la señal corresponde al sector salud, la repuesta se vincula al área específica para la situación de interés en salud pública, para que el proceso de atención en salud sea intramural o extramural, en caso contrario se direcciona a la entidad competente para la respuesta.
-      .col-lg-5.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-5.col-6.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img-29.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-9.order-2
         .bg-color-1.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/temas/tema1/img-42.svg', alt='')
             .col-lg
               .p-3
                 h4.titulo-1 Ejemplo
                 p.mb-0 Contaminación de un río, la competencia es de la Corporación Autónoma Regional, en el caso que se presenten personas enfermas, la respuesta será del sector salud. Cuando la magnitud de la situación supere el despliegue de la respuesta municipal o departamental se acudirá al apoyo nacional.
-      .col-lg-3.col-md-6.col-8.order-1.mb-lg-0.mb-4
+      .col-lg-3.col-md-6.col-8.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema1/img-41.png', alt='Imagen decorativa')
 
@@ -388,7 +383,10 @@
           img.icon-inline.d-none.d-lg-block.me-3(src='@/assets/curso/temas/tema1/img-31.svg' alt="Imagen decorativa")
         p.mb-0 En el caso que el reporte sea negativo (ausencia de la situación de interés en salud pública), la entidad territorial es la encargada de orientar a los vigías y gestores del porqué la señal presentada fue negativa; asimismo, es una forma de hacer monitoreo de estos casos para contar con la cobertura y funcionamiento de las redes. Para esto, se recomienda que exista una comunicación semanal con los agentes comunitarios que son parte de la REVCOM, con el objeto de validar la existencia o no de situaciones de interés en salud pública que ocurran en las comunidades (Instituto Nacional de Salud, 2023).
 
-    p.mb-4 De acuerdo a lo anterior, a continuación, se relaciona la estructura de este flujo:
+    .row.justify-content-center.mb-4
+      .col-lg-8(data-aos="fade-right")
+        .bloque-texto-c.color-primario.tarjeta.p-3
+          p.mb-0.text-center De acuerdo a lo anterior, a continuación, se relaciona la estructura de este flujo:
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10.col-12
@@ -416,7 +414,7 @@
     p Para realizar el reporte de las situaciones de interés, actualmente se dispone de dos formatos de reporte a manera de ejemplo; una de ellas corresponde a las situaciones de reporte individual y otra a la de reporte colectivo; estas fichas pueden ser implementadas por las entidades territoriales o pueden ser diseñadas por la entidad territorial, según la posibilidad; aunque, guardando los parámetros que se dan para la obtención de datos requeridos. 
     p.mb-4 A continuación, puede descargar cada uno de estos formatos y así poder analizarlos:
 
-    .bg-c1.px-md-5.px-4.mb-0
+    .bg-c1.px-md-5.px-4.mb-4
       .row.justify-content-center
         .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
           .tarjeta.tarjeta--gris2.p-3.mb-4
@@ -446,7 +444,7 @@
                       i.fas.fa-file-download
 
       .row.justify-content-center.mb-4
-        .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+        .col-lg-5.col-md-6.col-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema1/img-32.png', alt='Imagen decorativa')
         .col-lg-7.mb-lg-0(data-aos="fade-left")
@@ -539,32 +537,32 @@
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-45.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 70+ en adelante, la versión más actualizada es la 145. Permite instalación es escritorio y en versiones móviles.
+              p.mb-0 De la versión 70+ en adelante, la versión más actualizada es la 145. Permite instalación en escritorio y en versiones móviles.
           .row(numero="2" titulo="Edge")
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-46.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 79 en adelante, la versión más actualizada es la 135. Permite instalación es escritorio y en versiones móviles.
+              p.mb-0 De la versión 79 en adelante, la versión más actualizada es la 135. Permite instalación en escritorio y en versiones móviles.
           .row(numero="3" titulo="Safari")
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-47.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 11.3 a la 18.x. No permite la instalación es escritorio, en versión móvil sí.
+              p.mb-0 De la versión 11.3 a la 18.x. No permite la instalación en escritorio, en versión móvil sí.
           .row(numero="4" titulo="Firefox")
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-48.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 79 en adelante, la versión más actualizada es la 136. No permite la instalación es escritorio, ni en versión móvil.
+              p.mb-0 De la versión 79 en adelante, la versión más actualizada es la 136. No permite la instalación en escritorio, ni en versión móvil.
           .row(numero="5" titulo="Opera")
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/tema1/img-49.svg").m-auto
             .col-xl
-              p.mb-0 De la versión 64 en adelante, la versión más actualizada es la 117. Permite instalación es escritorio y en versiones móviles.
-      .col-lg-4.order-lg-2.order-1.mb-3.col-md-8.col-10
+              p.mb-0 De la versión 64 en adelante, la versión más actualizada es la 117. Permite instalación en escritorio y en versiones móviles.
+      .col-lg-4.order-lg-2.order-1.mb-3.col-md-8.col-10.d-none.d-lg-block
         figure(data-aos="fade-down") 
           img(src='@/assets/curso/temas/tema1/img-39.svg', alt='Imagen decorativa')
 
