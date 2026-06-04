@@ -32,7 +32,7 @@
                 img(src='@/assets/curso/temas/tema1/img-03.svg', alt='')
             .col-lg
               .p-3
-                p Un sistema de recolección disminuye la probabilidad de errores en el procesamiento, debido a que la recolección manual de datos es susceptible a inconsistencias. El sistema garantizaría estandarización de la información y trazabilidad desde la fuente comunitaria (vigías y gestores) hasta los sistemas nacionales(Instituto Nacional de Salud, 2006).
+                p Un sistema de recolección disminuye la probabilidad de errores en el procesamiento, debido a que la recolección manual de datos es susceptible a inconsistencias. El sistema garantizaría estandarización de la información y trazabilidad desde la fuente comunitaria (vigías y gestores) hasta los sistemas nacionales (Instituto Nacional de Salud, 2006).
         p De igual manera, la centralización y articulación de datos, permite integrar los reportes de la VBC al SIVIGILA y al SAT, se asegura una única fuente de información consolidada, mejorando la coordinación entre niveles municipal, departamental y nacional para la coordinación de acciones con la comunidad. También, se fortalece la participación comunitaria porque los agentes comunitarios tendrán una herramienta accesible, sencilla y confiable para notificar, recibir retroalimentación y mejorar su rol en la vigilancia. Esto, favorece la motivación y la eficacia de la estrategia.
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
@@ -149,8 +149,8 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img-15.png', alt='Imagen decorativa')
           .col-lg-6.order-lg-2.order-2
-            p Comunican la presencia de casos sospechosos, conglomerados, muertes no atendidas por el sistema de salud, signos y síntomas compatibles con eventos bajo vigilancia o factores ambientales de riesgo (ejemplo: brotes de enfermedades, aumento de vectores, contaminación del agua).
-            p.mb-0 Un reporte positivo implica que se ha detectado y comunicado la presencia de casos, conglomerados, muertes, síntomas compatibles con enfermedades bajo vigilancia o factores ambientales de riesgo en la comunidad. Estos reportes son fundamentales para la acción porque permiten iniciar procesos de verificación, investigación epidemiológica y atención, además alerta a las autoridades de la necesidad de evaluar y responder ante potenciales brotes o eventos de interés en salud pública insumos para la activación de rutas de respuestas y gestión del riesgo local.
+            p Comunica la presencia de casos sospechosos, conglomerados, muertes no atendidas por el sistema de salud, signos y síntomas compatibles con eventos bajo vigilancia o factores ambientales de riesgo (ejemplo: brotes de enfermedades, aumento de vectores, contaminación del agua).
+            p.mb-0 Un reporte positivo implica que se ha detectado y comunicado la presencia de casos, conglomerados, muertes, síntomas compatibles con enfermedades bajo vigilancia o factores ambientales de riesgo en la comunidad. Estos reportes son fundamentales para la acción porque permiten iniciar procesos de verificación, investigación epidemiológica y atención, además alerta a las autoridades de la necesidad de evaluar y responder ante potenciales brotes o eventos de interés en salud pública insumos para la activación de rutas de respuesta y gestión del riesgo local.
       .py-3.py-md-4(titulo="Reporte negativo")
         .row.justify-content-center.p-4
           .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -479,7 +479,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-34.png', alt='Imagen decorativa')
 
-    p.mb-4 Los actores involucrados en la comunicación de las situaciones de interés en salud pública son la REVCOM: integrada por agentes seleccionados por la comunidad y conectados con las instituciones territoriales encargadas de la vigilancia, facilitando la movilidad de la información y la gestión coordinada de la respuesta. Estos agentes pueden pertenecer a comunidades rurales, urbanas, grupos especiales, alojamientos temporales y poblaciones cautivas, ampliando la cobertura y adaptando los canales según el contexto territorial (Tufiño et al., 2023).
+    p.mb-4 Los actores involucrados en la comunicación de las situaciones de interés en salud pública conforman la REVCOM: integrada por agentes seleccionados por la comunidad y conectados con las instituciones territoriales encargadas de la vigilancia, facilitando la movilidad de la información y la gestión coordinada de la respuesta. Estos agentes pueden pertenecer a comunidades rurales, urbanas, grupos especiales, alojamientos temporales y poblaciones cautivas, ampliando la cobertura y adaptando los canales según el contexto territorial (Tufiño et al., 2023).
 
     .row.justify-content-center
       .col-xl-10
