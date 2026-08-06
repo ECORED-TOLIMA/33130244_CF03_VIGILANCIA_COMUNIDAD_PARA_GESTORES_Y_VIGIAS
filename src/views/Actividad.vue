@@ -26,7 +26,7 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
@@ -41,7 +41,7 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
@@ -56,7 +56,7 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
@@ -71,7 +71,7 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
@@ -86,7 +86,7 @@ export default {
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
@@ -101,7 +101,7 @@ export default {
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdero', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
